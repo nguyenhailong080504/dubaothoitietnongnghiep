@@ -1,0 +1,9 @@
+requirement:
+pandas	                                Xử lý và phân tích dữ liệu dạng bảng (DataFrame)
+numpy	                                Tính toán số học hiệu năng cao, xử lý mảng
+matplotlib.pyplot	                Vẽ biểu đồ minh họa dữ liệu
+os	                                Tương tác với hệ thống file
+sklearn.preprocessing.MinMaxScaler	Chuẩn hóa dữ liệu đầu vào
+tensorflow.keras.models.Sequential	Xây mô hình học sâu
+tensorflow.keras.layers.LSTM, Dense	Các lớp LSTM và Fully Connected cho mô hình RNN
+google.colab.drive, google.colab.files	Dùng để thao tác với Google Drive (nếu chạy trên Google Colab)
